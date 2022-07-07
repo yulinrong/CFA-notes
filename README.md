@@ -1,1 +1,4 @@
-# CFA-Level-1-notes
+# CFA-notes
+
+ This repository is used to store my CFA notes
+ 
